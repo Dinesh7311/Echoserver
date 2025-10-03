@@ -62,7 +62,8 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
 ```
 ## OUTPUT:
-<img width="1906" height="1069" alt="Screenshot 2025-09-17 142048" src="https://github.com/user-attachments/assets/ea607d7a-c9c1-430e-a2af-4fda3cf8e0a5" />
+<img width="1920" height="1140" alt="ex1ethical" src="https://github.com/user-attachments/assets/00e027fc-94dc-4db2-9dcc-d32e9933c4cc" />
+
 
 ## RESULT:
 The program is executed successfully
